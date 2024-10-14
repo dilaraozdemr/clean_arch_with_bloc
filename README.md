@@ -11,7 +11,7 @@ This Flutter project is built using **Clean Architecture** principles with **Lay
   - **Application Layer**: Handles UI and state management using Bloc/Cubit and Provider.
 - **State Management**:
   - **Bloc/Cubit**: Utilized for managing complex state across the app.
-  - **Provider**: For consume team service.
+  - **Provider**: For consume theme service.
 - **Dependency Injection**: Implemented using `get_it` to handle dependencies, ensuring testability and flexibility.
 - **Unit Testing**: All critical components are covered by unit tests to ensure functionality and catch regressions early.
 
