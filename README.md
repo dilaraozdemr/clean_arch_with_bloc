@@ -37,3 +37,6 @@ This Flutter project is built using **Clean Architecture** principles with **Lay
 - **Mockito**: For mocking dependencies in unit tests.
 - **Flutter Test**: For writing unit and widget tests.(Still working on it.)
 
+
+![Adsız tasarım (2)](https://github.com/user-attachments/assets/bfae50c9-1bfc-40fd-b74b-b2f20e538371)
+
